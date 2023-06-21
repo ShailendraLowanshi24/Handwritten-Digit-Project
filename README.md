@@ -90,4 +90,8 @@ AWS_REGION = us-east-1
 
 AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
 
+<<<<<<< HEAD
 ECR_REPOSITORY_NAME = simple-app
+=======
+ECR_REPOSITORY_NAME = simple-app
+>>>>>>> a7dc8aea16f0407a80ba2369ba5f47f86327f5a9
