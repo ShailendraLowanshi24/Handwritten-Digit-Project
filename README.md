@@ -18,7 +18,7 @@ How to run?
 STEPS:
 Clone the repository
 
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/ShailendraLowanshi24/Handwritten-Digit-Project.git
 STEP 01- Create a conda environment after opening the repository
 conda create -n cnncls python=3.8 -y
 conda activate cnncls
@@ -89,9 +89,3 @@ AWS_SECRET_ACCESS_KEY=
 AWS_REGION = us-east-1
 
 AWS_ECR_LOGIN_URI = demo>>  566373416292.dkr.ecr.ap-south-1.amazonaws.com
-
-<<<<<<< HEAD
-ECR_REPOSITORY_NAME = simple-app
-=======
-ECR_REPOSITORY_NAME = simple-app
->>>>>>> a7dc8aea16f0407a80ba2369ba5f47f86327f5a9
